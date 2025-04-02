@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 import { motion } from "framer-motion";
 import { ExternalLink, Github } from "lucide-react";
@@ -50,7 +51,7 @@ const projects: Project[] = [
 
 const ProjectsSection = () => {
   const [filter, setFilter] = useState("All");
-  const categories = ["All", "AI", "IoT", "Web3", "Web"];
+  const categories = ["All", "AI", "IoT", "Web"];
 
   const filteredProjects = filter === "All" 
     ? projects 
