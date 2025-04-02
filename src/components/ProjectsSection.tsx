@@ -31,7 +31,7 @@ const projects: Project[] = [
     id: 2,
     title: "EcoSmart Home",
     description: "An IoT solution for smart homes that focuses on energy efficiency and environmental sustainability.",
-    image: "https://images.unsplash.com/photo-1558002038-1055e2be98ec?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=350",
+    image: "public/lovable-uploads/92b4a6f7-2e7e-4e23-8a34-6113138d9ec1.png",
     demoUrl: "#",
     githubUrl: "https://github.com",
     tags: ["IoT", "Node.js", "MQTT", "React"],
