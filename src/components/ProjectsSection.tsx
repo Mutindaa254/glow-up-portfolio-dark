@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { motion } from "framer-motion";
 import { ExternalLink, Github } from "lucide-react";
@@ -36,16 +35,6 @@ const projects: Project[] = [
     githubUrl: "https://github.com",
     tags: ["IoT", "Node.js", "MQTT", "React"],
     category: "IoT",
-  },
-  {
-    id: 3,
-    title: "CryptoTracker",
-    description: "A real-time cryptocurrency tracker and portfolio management application with price alerts.",
-    image: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=350",
-    demoUrl: "#",
-    githubUrl: "https://github.com",
-    tags: ["React", "Web3.js", "MongoDB"],
-    category: "Web3",
   },
   {
     id: 4,
