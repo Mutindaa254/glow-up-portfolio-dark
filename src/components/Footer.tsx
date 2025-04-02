@@ -1,3 +1,4 @@
+
 import { motion } from "framer-motion";
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -24,9 +25,9 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-2">
-              <li className="text-muted-foreground">San Francisco, CA</li>
-              <li><a href="mailto:alex.johnson@example.com" className="text-muted-foreground hover:text-hackathon-blue transition-colors">alex.johnson@example.com</a></li>
-              <li className="+254 712 345-678"><a href="tel:+11234567890" className="text-muted-foreground hover:text-hackathon-blue transition-colors">(123) 456-7890</a></li>
+              <li className="text-muted-foreground">Nairobi, Kenya</li>
+              <li><a href="mailto:codecrafters9@gmail.com" className="text-muted-foreground hover:text-hackathon-blue transition-colors">codecrafters9@gmail.com</a></li>
+              <li className="text-muted-foreground"><a href="tel:+254712345678" className="text-muted-foreground hover:text-hackathon-blue transition-colors">+254 712 345-678</a></li>
             </ul>
           </div>
         </div>
