@@ -74,7 +74,7 @@ const HeroSection = () => {
           }} transition={{
             delay: 0.7
           }}>
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-hackathon-blue transition-colors">
+              <a href="https://github.com/Mutindaa254" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-hackathon-blue transition-colors">
                 <Github size={24} />
               </a>
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-hackathon-blue transition-colors">
